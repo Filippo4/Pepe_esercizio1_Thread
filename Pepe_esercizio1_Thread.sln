@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pepe_esercizio1_Thread", "Pepe_esercizio1_Thread\Pepe_esercizio1_Thread.csproj", "{64BE5F17-BA02-4889-8A06-141F75458CF4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BE5F17-BA02-4889-8A06-141F75458CF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BE5F17-BA02-4889-8A06-141F75458CF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BE5F17-BA02-4889-8A06-141F75458CF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BE5F17-BA02-4889-8A06-141F75458CF4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {696BD7EE-C706-4906-93DD-BE11B01FF2EF}
+	EndGlobalSection
+EndGlobal
